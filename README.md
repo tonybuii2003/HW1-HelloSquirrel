@@ -4,11 +4,11 @@
 
 Submitted by: **Your Name Here**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**Personal Bio** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -35,9 +35,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/WZ1gAHU.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **peek**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -46,11 +46,11 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned to see how to implement an Android Application
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Phi Long Bui**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
