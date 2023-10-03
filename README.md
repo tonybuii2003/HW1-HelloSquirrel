@@ -2,7 +2,7 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: **Your Name Here**
+Submitted by: **Phi Long Bui**
 
 Time spent: **1** hours spent in total
 
